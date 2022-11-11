@@ -1,0 +1,113 @@
+@import "https://fonts.googleapis.com/css2?family=Pacifico&display=swap";
+html {
+  font-family: Poppins, sans-serif;
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0 0 0 20px;
+  padding: 0;
+}
+
+label {
+  margin-bottom: 10px;
+  padding: 5px;
+  display: block;
+}
+
+#error-message {
+  color: red;
+  margin-top: 20px;
+  display: block;
+}
+
+img {
+  width: 80%;
+  box-shadow: 0 1px 4px #00000029;
+}
+
+label {
+  border-color: #4c824b;
+  padding: 5px;
+  display: inline-block;
+}
+
+input {
+  border: 1px solid #000;
+  border-radius: 5px 0 0 5px;
+  margin-left: -5px;
+  padding: 5px;
+}
+
+#search {
+  background-color: #ffd435;
+  border: 1px solid #000;
+  border-radius: 0 5px 5px 0;
+  margin-bottom: 20px;
+  margin-left: -10px;
+  padding: 5px;
+  display: inline-block;
+}
+
+button {
+  background-color: #ffd435;
+  border: 1px solid #000;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 5px;
+  display: block;
+}
+
+.countries {
+  width: 60%;
+  background-color: #faebd7;
+  border-radius: 10px;
+  box-shadow: 0 1px 4px #00000029;
+}
+
+.flag {
+  width: 35px;
+}
+
+.countryname {
+  margin-left: 10px;
+  font-family: Pacifico, cursive;
+  font-size: 24px;
+  display: inline-block;
+}
+
+.population, .capital, .language {
+  margin-top: 3px;
+  font-size: 20px;
+  list-style-type: none;
+}
+
+.language {
+  padding-bottom: 40px;
+}
+
+#europe {
+  color: #ffd435;
+}
+
+#asia {
+  color: #d14e5b;
+}
+
+#africa {
+  color: #5474be;
+}
+
+#americas {
+  color: #4c824b;
+}
+
+#oceania {
+  color: #a653ba;
+}
+
+#emptyspace {
+  height: 100px;
+}
+
+/*# sourceMappingURL=index.1303bb05.css.map */

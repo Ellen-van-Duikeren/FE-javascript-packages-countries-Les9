@@ -1,6 +1,6 @@
 222
 112C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\axios\lib\helpers\toURLEncodedForm.js133124560066785308 0
-67C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\.idea133126392200444565 1
+67C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\.idea133126396246059651 1
 68C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\assets133124662042627013 1
 103C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\axios\lib\cancel\isCancel.js133124560065841928 0
 74C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\package.json133124560446107612 0
@@ -13,13 +13,13 @@
 91C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\mime-db\index.js133124560061916721 0
 106C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\axios\dist\esm\axios.min.js.map133124560067675268 0
 95C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\base64-js\index.d.ts133124560429423425 0
-66C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\dist133126388584048941 1
-72C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\styles.css133126388582781508 0
+66C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\dist133126396499937264 1
+72C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\styles.css133126396436746907 0
 93C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\ieee754\index.d.ts133124560429300079 0
 97C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\.idea\Les9-JS-countries-opnieuw.iml133124557359604335 0
 95C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\mime-types\README.md133124560062144491 0
 89C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\proxy-from-env133124560062481696 1
-72C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\index.html133126330771837740 0
+72C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\index.html133126396498791793 0
 98C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\mime-types\package.json133124560062016693 0
 74C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules133124560445406876 1
 69C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\main.js133126358933286520 0
@@ -67,7 +67,7 @@
 99C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\form-data\lib\browser.js133124560061947929 0
 87C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\asynckit\lib133124560063386444 1
 90C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\mime-db\db.json133124560062229521 0
-89C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\dist\index.1303bb05.css.map133126388584038927 0
+89C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\dist\index.1303bb05.css.map133126396438043583 0
 93C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\mime-types\LICENSE133124560061784897 0
 93C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\axios\CHANGELOG.md133124560067695278 0
 97C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\form-data\package.json133124560062431697 0
@@ -178,7 +178,7 @@
 98C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\axios\lib\core\Axios.js133124560062986494 0
 103C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\axios\lib\core\AxiosError.js133124560063454952 0
 105C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\axios\lib\core\AxiosHeaders.js133124560063532407 0
-85C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\dist\index.1303bb05.css133126388584018911 0
+85C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\dist\index.1303bb05.css133126396438023600 0
 106C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\axios\lib\core\buildFullPath.js133124560063885953 0
 104C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\axios\lib\core\mergeConfig.js133124560065978552 0
 99C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\axios\lib\core\settle.js133124560066307979 0
@@ -214,10 +214,10 @@
 101C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\asynckit\lib\terminator.js133124560063318991 0
 84C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\dist\index.63aff760.js133126358934737758 0
 88C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\dist\index.63aff760.js.map133126358935275639 0
-77C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\dist\index.html133126330773956420 0
+77C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\dist\index.html133126396499831877 0
 83C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\assets\screenshot.png133123079510202377 0
 82C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\assets\world_map.png133123079510227884 0
 78C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\.idea\.gitignore133124557394498743 0
 79C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\.idea\modules.xml133124557359727673 0
 75C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\.idea\vcs.xml133124558055542768 0
-81C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\.idea\workspace.xml133126392200424542 0
+81C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\.idea\workspace.xml133126396246039555 0

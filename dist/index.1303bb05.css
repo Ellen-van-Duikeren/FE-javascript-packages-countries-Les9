@@ -62,6 +62,7 @@ button {
   width: 60%;
   background-color: #faebd7;
   border-radius: 10px;
+  font-size: 20px;
   box-shadow: 0 1px 4px #00000029;
 }
 
@@ -70,6 +71,7 @@ button {
 }
 
 .countryname {
+  margin-top: 20px;
   margin-left: 10px;
   font-family: Pacifico, cursive;
   font-size: 24px;

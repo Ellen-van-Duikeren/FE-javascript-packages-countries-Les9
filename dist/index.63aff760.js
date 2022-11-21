@@ -543,17 +543,18 @@ const list = document.getElementById("list-of-users");
 const errorMessage = document.getElementById("error-message");
 // Asynchrone functie (normale syntax):
 async function fetchData(name) {
-    let URI = "https://restcountries.com/v2/all";
-    if (name) URI = "https://restcountries.com/v2/name/" + name;
-    else URI = "https://restcountries.com/v2/all";
+    let uri = "https://restcountries.com/v2/all";
+    if (name) uri = "https://restcountries.com/v2/name/" + name;
+    else uri = "https://restcountries.com/v2/all";
     try {
         errorMessage.textContent = "";
-        const response = await (0, _axiosDefault.default).get(URI);
+        const response = await (0, _axiosDefault.default).get(uri);
         // Leeg de lijst bij aanvang
         list.replaceChildren();
         // sorteren op populatie grootte van groot naar klein want dat vind ik leuker dan andersom zoals gevraagd
         response.data.sort((a, b)=>b.population - a.population);
         // Map door de data heen
+        // feedback: hier zou je nog dit kunnen doen: response.data.map(({ flags: { png }, name, currencies, population, capital }) => { zodat je overal country weg kan halen
         response.data.map((country)=>{
             //flag
             const flag = document.createElement("img");

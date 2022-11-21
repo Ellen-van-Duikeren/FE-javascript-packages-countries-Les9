@@ -11,10 +11,11 @@ const errorMessage = document.getElementById("error-message");
 
 // Asynchrone functie (normale syntax):
 async function fetchData(name) {
+    let uri = "https://restcountries.com/v2/all";
     if (name) {
-        let uri = "https://restcountries.com/v2/name/" + name;
+        uri = "https://restcountries.com/v2/name/" + name;
     } else {
-        let uri = "https://restcountries.com/v2/all";
+        uri = "https://restcountries.com/v2/all";
     }
 
     try {

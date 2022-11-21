@@ -1,5 +1,7 @@
 import axios from "axios";
 
+console.log("Script is running");
+
 // 1. Data Fetchen
 // Create reference
 const list = document.getElementById("list-of-users");
@@ -9,17 +11,15 @@ const errorMessage = document.getElementById("error-message");
 
 // Asynchrone functie (normale syntax):
 async function fetchData(name) {
-    let URI = "https://restcountries.com/v2/all";
-
     if (name) {
-        URI = "https://restcountries.com/v2/name/" + name;
+        let uri = "https://restcountries.com/v2/name/" + name;
     } else {
-        URI = "https://restcountries.com/v2/all";
+        let uri = "https://restcountries.com/v2/all";
     }
 
     try {
         errorMessage.textContent = "";
-        const response = await axios.get(URI);
+        const response = await axios.get(uri);
 
         // Leeg de lijst bij aanvang
         list.replaceChildren();
@@ -28,6 +28,7 @@ async function fetchData(name) {
         response.data.sort((a, b) => b.population - a.population);
 
         // Map door de data heen
+        // feedback: hier zou je nog dit kunnen doen: response.data.map(({ flags: { png }, name, currencies, population, capital }) => { zodat je overal country weg kan halen
         response.data.map((country) => {
 
             //flag

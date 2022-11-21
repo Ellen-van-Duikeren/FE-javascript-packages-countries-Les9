@@ -1,6 +1,6 @@
 222
 112C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\axios\lib\helpers\toURLEncodedForm.js133124560066785308 0
-67C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\.idea133126396246059651 1
+67C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\.idea133131797312620557 1
 68C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\assets133124662042627013 1
 103C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\axios\lib\cancel\isCancel.js133124560065841928 0
 74C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\package.json133124560446107612 0
@@ -8,7 +8,7 @@
 88C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\form-data\lib133124560062229521 1
 111C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\delayed-stream\lib\delayed_stream.js133124560062239519 0
 90C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\combined-stream133124560062056706 1
-79C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\package-lock.json133124560446096961 0
+79C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\package-lock.json133131797927395959 0
 110C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\axios\lib\helpers\formDataToJSON.js133124560064826993 0
 91C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\mime-db\index.js133124560061916721 0
 106C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\axios\dist\esm\axios.min.js.map133124560067675268 0
@@ -23,7 +23,7 @@
 98C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\mime-types\package.json133124560062016693 0
 74C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules133124560445406876 1
 69C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\main.js133126358933286520 0
-93C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\.package-lock.json133124560446137699 0
+93C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\.package-lock.json133131797927430711 0
 92C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\form-data\License133124560061784897 0
 85C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\axios\dist133124560067625286 1
 90C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\node_modules\mime-db\LICENSE133124560061784897 0
@@ -220,4 +220,4 @@
 78C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\.idea\.gitignore133124557394498743 0
 79C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\.idea\modules.xml133124557359727673 0
 75C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\.idea\vcs.xml133124558055542768 0
-81C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\.idea\workspace.xml133126396246039555 0
+81C:\Users\evand\Novi\FrontEnd\Lessen\Les9-JS-countries-opnieuw\.idea\workspace.xml133131797312600561 0
